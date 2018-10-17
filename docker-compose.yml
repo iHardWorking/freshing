@@ -1,12 +1,12 @@
 version: '2'
 services:
-  renren-admin:
+  freshing-admin:
     image: renren/admin
     ports:
       - "8080:8080"
     environment:
       - spring.profiles.active=dev
-  renren-api:
+  freshing-api:
     image: renren/api
     ports:
       - "8081:8081"
