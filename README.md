@@ -1,7 +1,6 @@
 # freshing
 采用SpringBoot2.0、MyBatis、Shiro框架------基于renren.io
-##### 8.流程图 todo
-##### 9.甘特图 todo
+##### 1.流程图 
 ```
 graph TD;
     A-->B;
@@ -9,6 +8,7 @@ graph TD;
     B-->D;
     C-->D;
 ```
+##### 2.甘特图 
 ```
 gantt
         dateFormat  YYYY-MM-DD
